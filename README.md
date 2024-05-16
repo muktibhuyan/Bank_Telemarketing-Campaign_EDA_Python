@@ -1,1 +1,1 @@
-# MPAIGN-USING-PYTHON
+# EDA project on telemarketing campaign using Python
